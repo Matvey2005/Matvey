@@ -1,0 +1,6 @@
+@Курсач_1_HostAddress = http://localhost:5256
+
+GET {{Курсач_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
