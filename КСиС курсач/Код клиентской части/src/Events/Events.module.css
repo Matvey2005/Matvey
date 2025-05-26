@@ -1,0 +1,43 @@
+.catalog {
+	width: 50%;
+	/* background-color: red; */
+	border-left: 2px solid #3e9ac9;
+	padding-left: 1.5rem;
+	overflow-y: auto;
+}
+
+.listEvents {
+	list-style-type: none;
+	font-size: 1.5rem;
+	margin-top: 25px;
+}
+
+.listEvents li {
+	border: 1px solid black;
+	margin: 10px;
+	border-radius: 15px;
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+}
+
+.div_svg svg {
+	height: 2rem;
+	width: 2rem;
+	fill: #757c86;
+	margin-left: 0.3rem;
+}
+
+.addEventButton {
+	width: 7rem;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	border: none;
+	background-color: blue;
+	color: white;
+
+	border-radius: 0.5rem;
+	margin-right: 0.5rem;
+	padding: 0.5rem;
+}

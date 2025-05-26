@@ -1,0 +1,28 @@
+.reg {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 20px;
+}
+
+.containerReg {
+	display: flex;
+	flex-direction: column
+}
+
+.containerReg input {
+	margin-top: 1rem;
+	border: 1px solid #3e9ac9;
+	padding: 0.5rem;
+}
+
+.containerAuth {
+	display: flex;
+	flex-direction: column
+}
+
+.containerAuth input {
+	margin-top: 1rem;
+	border: 1px solid #3e9ac9;
+	padding: 0.5rem;
+}

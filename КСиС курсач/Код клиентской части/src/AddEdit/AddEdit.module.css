@@ -1,0 +1,16 @@
+.containerInput {
+	display: flex;
+	flex-direction: column
+}
+
+.containerInput input {
+	margin-top: 1rem;
+	border: 1px solid #3e9ac9;
+	padding: 0.5rem;
+}
+
+.containerButton {
+	margin-top: 1rem;
+	display: flex;
+	justify-content: space-around
+}
